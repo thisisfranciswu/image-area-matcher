@@ -1,5 +1,9 @@
-This is my image area matcher.
+This calculator makes sure two images have the same area sizes while maintaining their respective aspect ratios. It's perfect for logos! Why?
 
-You can futz around with it.
+Logos come in all dimensions. Some are wide, some are tall. Some are as wide as they are tall (or square).
+
+But if you've ever attempted to uniformly resize a collection of logos, you eventually realize that you can't resize them by relying on a maximum width or height — square logos will always look bigger compared to the wider or taller ones.
+
+This calculator will help you resize logos so that they take up the same amount of visual space while maintaining their respective aspect ratios.
 
 Copyright (c) 2009 Francis Wu, released under the MIT license
